@@ -7,8 +7,8 @@
 		"RestoresMana": "Nikapi'e {0} lucajo",
 		"MinuteDuration": "{0} nanakëllolo",
 		"SecondDuration": "{0} miziffallo",
-		"PlaceableOnXmasTree": "Placeable on a christmas tree",
-		"String": "Increases yoyo range",
+		"PlaceableOnXmasTree": "llei figgaikei bubojaizad Klizavi",
+		"String": "Bija neitaud teguämmei",
 		"Counterweight": "Throws a counterweight after hitting an enemy with a yoyo",
 		"BannerBonus": "Nearby players get a bonus against: ",
 		"BannerBonusReduced": "Nearby players get a small bonus against: ",
@@ -89,7 +89,7 @@
 		"WellFed3_Expert": "Major improvements to all stats and increased life regeneration"
 	},
 	"Prefix": {
-		"Dull": "Dull",
+		"Dull": "dțilg",
 		"Unhappy": "Unhappy",
 		"Bulky": "Bulky",
 		"Shameful": "Shameful",
@@ -98,7 +98,7 @@
 		"Sighted": "Sighted",
 		"Rapid": "Rapid",
 		"Hasty": "Hasty",
-		"Intimidating": "Intimidating",
+		"Intimidating": "Hhahap",
 		"Large": "Large",
 		"Deadly": "Deadly",
 		"Staunch": "Staunch",
@@ -7940,4 +7940,5 @@
 		"DontHurtComboBookInactive": "Prevents you from hurting critters while in the inventory\nPrevents you from accidentally destroying the environment while in the inventory\nEffects are currently inactive, <right> to reactivate",
 		"BonePickaxe": "'I've got a bone to pick with you'",
 	}
+
 }
