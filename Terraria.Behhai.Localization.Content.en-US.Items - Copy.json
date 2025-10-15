@@ -9,7 +9,7 @@
 		"SecondDuration": "{0} miziffallo",
 		"PlaceableOnXmasTree": "llei figgaikei bubojaizad Klizavi",
 		"String": "Bija neitaud teguämmei",
-		"Counterweight": "Throws a counterweight after hitting an enemy with a yoyo",
+		"Counterweight": "Bulazi'e counterweight fël _ai _ei atat neitaud",
 		"BannerBonus": "Nearby players get a bonus against: ",
 		"BannerBonusReduced": "Nearby players get a small bonus against: ",
 		"SpecialCrafting": "Used for special crafting",
@@ -7942,3 +7942,4 @@
 	}
 
 }
+
