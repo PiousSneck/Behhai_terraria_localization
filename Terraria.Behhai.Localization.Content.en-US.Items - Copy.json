@@ -9,8 +9,8 @@
 		"SecondDuration": "{0} miziffallo",
 		"PlaceableOnXmasTree": "llei figgaikei bubojaizad Klizavi",
 		"String": "Bija neitaud teguämmei",
-		"Counterweight": "Bulazi'e counterweight fël _ai _ei atat neitaud",
-		"BannerBonus": "Nearby players get a bonus against: ",
+		"Counterweight": "Bulazi'e hupsi'e fël tònai kuihuimei atat neitaud",
+		"BannerBonus": "Nearby cu'ilo get a bonus against: ",
 		"BannerBonusReduced": "Nearby players get a small bonus against: ",
 		"SpecialCrafting": "Used for special crafting",
 		"DevItem": "'Great for impersonating devs!'",
@@ -7942,4 +7942,5 @@
 	}
 
 }
+
 
